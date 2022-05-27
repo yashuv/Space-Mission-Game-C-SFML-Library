@@ -1,5 +1,5 @@
 # Space-Mission-Game-Using-C++-SFML-Library
-This is just fun simple game (spaceship fires enemies and collects score) created using c++ sfml library as a part (mini) of study as an assignment.
+This is just fun simple game (spaceship fires enemies and collects score) created using c++ sfml library.
 
 To run this game in your machine, you just need a C++ compiler and SFML library files. Then, you can simply run game.cpp file inside compiler and play game.<br>
 <br> <strong>Note:</strong> The missing header files need to be downloaded from web and stored inside the 'include' directory of your compiler.!<br><br>
